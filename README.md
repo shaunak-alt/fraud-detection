@@ -16,8 +16,3 @@ Technologies Used
 3. NumPy
 4. scikit-learn
 5. DEAP (Distributed Evolutionary Algorithms in Python)
-
-Project Structure
-├── fraud.csv                  # Dataset (not included in repo - upload manually)
-├── genetic_fraud_detection.py  # Main code file
-├── README.md                   # Project documentation
